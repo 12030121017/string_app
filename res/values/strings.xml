@@ -4,5 +4,7 @@
     <string name="app_name">string_app</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_scroll">ScrollActivity</string>
+    <string name="title_activity_text_formatter">TextFormatter</string>
 
 </resources>
