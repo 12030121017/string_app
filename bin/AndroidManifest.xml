@@ -20,18 +20,16 @@
         <activity
             android:name="com.example.string_app.ScrollActivity"
             android:label="@string/title_activity_scroll" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name="com.example.string_app.TextFormatter"
             android:label="@string/title_activity_text_formatter" >
+        </activity>
+        <activity
+            android:name="com.example.string_app.Calculator"
+            android:label="@string/title_activity_calculator" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

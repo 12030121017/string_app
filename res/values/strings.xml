@@ -6,5 +6,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_scroll">ScrollActivity</string>
     <string name="title_activity_text_formatter">TextFormatter</string>
+    <string name="title_activity_calculator">Calculator</string>
 
 </resources>
